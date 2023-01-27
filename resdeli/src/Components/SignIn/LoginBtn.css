@@ -62,8 +62,8 @@
 }
 
 .apple-btn:hover {
-    background-color: hsl(0, 10%, 10%);
-    text-shadow: 1px 1px hsl(0, 0%, 60%), -1px -1px hsl(0, 0%, 60%);
+    background-color: hsl(0, 0%, 20%);
+    text-shadow: 1px 1px hsl(0, 0%, 0%), -1px -1px hsl(0, 0%, 0%);
 }
 
 .acc-btn {
