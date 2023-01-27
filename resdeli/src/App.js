@@ -1,5 +1,6 @@
-import { useState } from "react";
-import { LoginPage } from "./Pages/LoginPage";
+import './App.css';
+
+import { LoginPage } from "./Pages/LoginPage/LoginPage";
 
 function App() {
 
